@@ -1,0 +1,31 @@
+// item tags  on the blogs
+
+//muitple countries on the blog tags
+
+--news categorization 
+
+--email notifications on the discussion folum (Comments )
+// discussion
+    -topic 
+    -description
+    --tags ()
+
+   --tags by country
+      --topics(other topics)
+ --images seperation(blog/news)
+
+ --images preview / upload 
+
+ --tags
+--google capturation
+
+--registration 
+    --country
+    --remove phone 
+    --add names together
+    
+
+
+
+
+

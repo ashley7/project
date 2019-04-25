@@ -1,0 +1,13 @@
+--latest blogs
+--news 
+--discussions 
+--
+
+categorization of the blogs
+
+--tags on the news
+--blog categories
+
+--add countryb on the blog
+
+
